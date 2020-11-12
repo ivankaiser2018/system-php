@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    background-image:url("../img/img2.jpg");
+    background-position: 50% 70%;
+
+}
+
+input{
+    background-color: rgba(255,255,255,0.01);
+    display: block;
+    height: 30px;
+    width: 260px;
+    margin: 10px;
+    border-radius: 30px;
+    border: 1px solid white;
+    
+    font-size: 14pt;
+   color: white;
+    outline: none;
+  
+}
+
+
+
+
+
+
+
+div#corpo-form{
+       background-color: rgba(255,255,255,0.01);
+    width: 300px;
+    margin: 150px auto 0px auto;
+}
+
+div#corpo-form h1{
+       
+    text-align:left;
+    padding: 10px;
+    color:white;
+
+    
+    
+    
+    
+}
+#corpo-form h1#h1{
+    text-align: center;
+    color: brown;
+}
+
+
+
+
+
+div#corpo-form a{
+    text-align:right;
+    padding: 10px;
+    color:red;
+   
+
+}
+div#corpo-form a:hover{
+    text-align:right;
+    padding: 10px;
+    color:white;
+
+}
+
+
+
+a#link{
+    color: white;
+    text-decoration: none;
+    text-align: right;
+   
+}
+a#link:hover{
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+
+a#page{
+   font-size: 16pt;
+   color:brown;
+    text-decoration: none;
+    text-align:justify;
+   
+}
+a#page:hover{
+    text-decoration: underline;
+    text-align: center;
+      color:white;
+}
+input[type=submit]{
+    
+    background-color: #fa0a08;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+form{
+        background-color: rgba(255,255,255,0.01);
+}
